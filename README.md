@@ -1,3 +1,23 @@
+Hello Developers, I am Shashank, I have developed a Weather App using React JS. 
+In this Weather App I have used weather API from 'Open Weather Map API'.
+In this Application If user Type the name of the city and click on the search button It will shows the weather details.
+
+Usage
+1) Enter a city name in the search box to get the current weather conditions.
+2) Click on the search button to display the weather information.
+
+Technologies Used
+React, HTML, CSS, JS, OpenWeatherMap API.
+
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+1) Fork the repository.
+2) Create a new branch (git checkout -b feature).
+3) Make your changes.
+4) Commit your changes (git commit -am 'Add new feature').
+5) Push to the branch (git push origin feature).
+6) Create a new Pull Request.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
